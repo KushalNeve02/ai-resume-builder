@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 
-const API_BASE = "http://localhost:8000";
+const API_BASE = "https://ai-resume-builder-backend-xot4.onrender.com";
 
 const STEPS = ["Personal", "Education", "Experience", "Skills", "Generate"];
 
